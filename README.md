@@ -4,7 +4,7 @@
 
 ## 📒 Descrição do Projeto 
 
-Este e-book de  páginas explora a Inteligência Artificial Generativa e a importância de utiliza-la de forma consciente e da maneira certa e boa .
+Este e-book de 6 páginas explora a Inteligência Artificial Generativa e a importância de utiliza-la de forma consciente e da maneira certa e boa .
 
 ## 🤖 Tecnologias Utilizadas
   -IA Generativa **[ChatGPT](https://chat.openai.com)** para criar toda a estética;
